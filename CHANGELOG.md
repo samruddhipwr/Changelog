@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/samruddhipwr/Changelog/compare/v1.1.2...v1.1.3) (2022-05-02)
+
+
+### Patch
+
+* updated file to fix issue ([5ecf707](https://github.com/samruddhipwr/Changelog/commit/5ecf7079e0e2a299b0128f764f6f3a562285835e))
+
 ### [1.1.2](https://github.com/samruddhipwr/Changelog/compare/v1.1.1...v1.1.2) (2022-05-02)
 
 
