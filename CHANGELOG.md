@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/samruddhipwr/Changelog/compare/v1.0.0...v1.1.0) (2022-05-02)
+
+
+### Features
+
+* new feature ([dab71fd](https://github.com/samruddhipwr/Changelog/commit/dab71fd94c9a16359c6fe7c8ec0f496430c1dec2))
+
 ## 1.0.0 (2022-05-02)
 
 
