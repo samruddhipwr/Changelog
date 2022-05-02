@@ -1,0 +1,2 @@
+# Changelog
+generate changelog auto
